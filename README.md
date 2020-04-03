@@ -1,4 +1,5 @@
 # Learning OCRmyPDF
+Notes during the learning of OCRmyPDF, a Tesseract based Optical Character Recognition(OCR) software
 
 ## References
 
